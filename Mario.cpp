@@ -3,6 +3,7 @@
 using namespace std;
 int Num;
 
+
 class HeroBullet
 {
 public:
